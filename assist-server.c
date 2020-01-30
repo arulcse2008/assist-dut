@@ -5,15 +5,10 @@
  *  Once new request from DUT, accept the conenction and start processing the request
  *
  *  @author Yashwanth Dasar (yashwanth_dasar@mentor.com)
- *  @bug No know bugs.
+ *  @bug No known bugs.
  */
 
 #include "include/assist.h"
-
-
-
-
-
 
 /** @file assist-server.c
  *  @brief Starting point of execution. Create socket and wait in while loop
